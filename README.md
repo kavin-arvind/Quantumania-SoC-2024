@@ -1,6 +1,6 @@
 # Quantumania-SoC-2024
 Seasons of Code 2024 repository for a project on Quantum Computing and Quantum Cryptography
-Mentors: [Lakshya Gadhwal](https://github.com/DarthVishnu8) and Yug Agarwal
+Mentors: [Lakshya Gadhwal](https://github.com/DarthVishnu8) and [Yug Agarwal](https://github.com/yug1919)
 
 ## Learning Objectives
 * Get a good understanding of the difference between Classical and Quantum Computers.
